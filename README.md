@@ -15,8 +15,6 @@ https://www.findbestopensource.com/product/bakwc-porndetector
 
 https://www.patrick-wied.at/static/nudejs/
 
-https://www.patrick-wied.at/static/nudejs/
-
 https://github.com/yahoo/open_nsfw?ref=https://githubhelp.com
 
 https://github.com/AdityaIyer2609/NudityDetection-Using-Deeplearning?ref=https://githubhelp.com
@@ -26,4 +24,6 @@ https://github.com/xFinal/nsfw-mobile-ncnn
 https://reposhub.com/swift/AI/lovoo-NSFWDetector.html
 
 https://cloud.google.com/video-intelligence
+
+https://github.com/bakwc/PornDetector
 
